@@ -2,7 +2,7 @@
 ## Object-Oriented Game Development Project - Plants vs. Zombies
 
 ## Project Group:
-Barış Arslan
-Eyyüp Taşçı
+Barış Arslan<br>
+Eyyüp Taşçı<br>
 Baran Kırkgöz
 
