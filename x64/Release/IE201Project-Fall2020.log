@@ -1,0 +1,41 @@
+﻿  Source.cpp
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(254,33): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(254,27): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(260,37): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(260,31): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(264,37): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(264,31): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(273,39): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(273,26): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(274,41): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(274,28): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(275,50): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(275,32): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(277,39): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(277,26): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(278,42): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(278,28): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(279,50): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(279,32): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(285,33): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(285,27): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(291,37): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(291,31): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(296,37): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(296,31): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(585,31): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(585,25): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(591,31): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(591,25): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(597,31): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(597,25): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(603,31): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(603,25): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(609,31): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Baris\source\repos\term-project-group-4\Source.cpp(609,25): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+  Generating code
+  1 of 909 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  IE201Project-Fall2020.vcxproj -> C:\Users\Baris\Source\Repos\term-project-group-4\x64\Release\IE201Project-Fall2020.exe
